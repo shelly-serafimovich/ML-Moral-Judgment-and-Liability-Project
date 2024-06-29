@@ -1,5 +1,8 @@
 # ML-Moral-Judgment-and-Liability-Project
-![Alt Text](https://www.frontiersin.org/files/MyHome%20Article%20Library/862322/862322_Thumb_400.jpg)
+
+<div align="center">
+    <img src="https://www.frontiersin.org/files/MyHome%20Article%20Library/862322/862322_Thumb_400.jpg" alt="Example Diagram" width="500">
+</div>
 
 ## Project Overview
 This project explores the intersection of machine learning and ethical considerations, specifically focusing on moral judgment and liability in AI systems. This notebook contains analyses and models that help predict moral judgments based on textual data.
